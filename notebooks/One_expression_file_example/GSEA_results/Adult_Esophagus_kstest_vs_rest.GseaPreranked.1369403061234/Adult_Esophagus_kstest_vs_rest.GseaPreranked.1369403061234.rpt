@@ -1,0 +1,22 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1369403061234
+param	collapse	false
+param	plot_top_x	20
+param	rnk	/Users/risserlin/Dropbox/WorkFiles/Gary request/Pandey_HumanTissueSpec/kstest_run/Adult_Esophagus.rnk
+param	norm	meandiv
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	/Users/risserlin/Dropbox/WorkFiles/Gary request/Pandey_HumanTissueSpec/kstest_run/Human_AllPathwaysGOBP_noiea_May_14_2013_symbol.gmt
+param	gui	false
+param	rpt_label	Adult_Esophagus_kstest_vs_rest
+param	help	false
+param	out	/Users/risserlin/Dropbox/WorkFiles/Gary request/Pandey_HumanTissueSpec/kstest_run
+param	include_only_symbols	true
+param	set_min	15
+param	nperm	1000
+param	rnd_seed	timestamp
+param	zip_report	false
+param	set_max	500
+
+file	/Users/risserlin/Dropbox/WorkFiles/Gary request/Pandey_HumanTissueSpec/kstest_run/Adult_Esophagus_kstest_vs_rest.GseaPreranked.1369403061234/index.html

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKAP5	null	null	37	1.0	0.041827526	Yes	
+row_1	AP2A1	null	null	58	1.0	0.084686734	Yes	
+row_2	CACNG2	null	null	215	1.0	0.119292505	Yes	
+row_3	CACNG3	null	null	216	1.0	0.16336545	Yes	
+row_4	CACNG8	null	null	218	1.0	0.20737772	Yes	
+row_5	CAMK2A	null	null	226	1.0	0.25102586	Yes	
+row_6	CAMK2B	null	null	227	1.0	0.29509878	Yes	
+row_7	CAMK2D	null	null	228	1.0	0.33917174	Yes	
+row_8	CAMK2G	null	null	229	1.0	0.3832447	Yes	
+row_9	DLG1	null	null	361	1.0	0.41936764	Yes	
+row_10	DLG4	null	null	364	1.0	0.4633192	Yes	
+row_11	EPB41L1	null	null	402	1.0	0.50514674	Yes	
+row_12	GRIA1	null	null	540	1.0	0.54090554	Yes	
+row_13	GRIA2	null	null	541	1.0	0.5849785	Yes	
+row_14	GRIA3	null	null	542	1.0	0.62905145	Yes	
+row_15	GRIA4	null	null	543	1.0	0.6731244	Yes	
+row_16	NSF	null	null	880	1.0	0.6968065	Yes	
+row_17	PICK1	null	null	960	1.0	0.7360852	Yes	
+row_18	PRKCA	null	null	1018	1.0	0.77669895	Yes	
+row_19	PRKCB	null	null	1019	1.0	0.82077193	Yes	
+row_20	PRKCG	null	null	1021	1.0	0.8647842	Yes	
+row_21	GRIP1	null	null	3247	0.8620689511299133	0.76774955	No	
+row_22	MYO6	null	null	3900	0.7931034564971924	0.7631361	No	
+row_23	CACNG4	null	null	6236	-0.03448275849223137	0.62295175	No	
